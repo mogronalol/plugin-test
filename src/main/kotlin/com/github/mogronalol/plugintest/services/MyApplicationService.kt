@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mogronalol.plugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mogronalol.plugintest.MyBundle
 
 class MyApplicationService {
 

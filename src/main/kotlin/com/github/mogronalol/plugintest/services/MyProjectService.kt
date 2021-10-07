@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.mogronalol.plugintest.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mogronalol.plugintest.MyBundle
 
 class MyProjectService(project: Project) {
 
